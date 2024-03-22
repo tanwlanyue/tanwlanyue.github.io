@@ -7,7 +7,7 @@ categories: 工具
 
 # Git配置
 
-```shell
+```sh
 # 生成 SSH Key
 ssh-keygen -t rsa -C "tanwlanyue@gmail.com"
 # 查看生成的 SSH 公钥
@@ -27,7 +27,7 @@ git config --global gui.encoding utf-8
 <!-- more -->
 # Git命令
 
-```shell
+```sh
 # 删除分支
 git branch -D branchName
 # 修改最近的 commit message
