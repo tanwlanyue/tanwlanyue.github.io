@@ -1,8 +1,10 @@
 ---
-title: Git
+title: Git 基础
 date: 2024-03-21 23:12:54
 categories: 工具
 ---
+
+[Pro Git 简体中文版](https://iissnan.com/progit/)
 
 # Git配置
 
