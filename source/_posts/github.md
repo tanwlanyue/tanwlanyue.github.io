@@ -4,6 +4,8 @@ date: 2024-03-22 22:33:11
 categories: 资源
 ---
 
+<img src="../images/github.jpg" style="zoom: 20%;" />
+
 [introduce_c-cpp_manual](https://github.com/0voice/introduce_c-cpp_manual)
 
 [GitHub精选 | GitHub 中文社区](https://www.github-zh.com/awesome)
