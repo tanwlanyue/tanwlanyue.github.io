@@ -6,7 +6,7 @@ categories: 资源
 
 <img src="../images/github.jpg" style="zoom: 20%;" />
 
-[introduce_c-cpp_manual](https://github.com/0voice/introduce_c-cpp_manual)
+[0voice: Probably the most comprehensive and professional c/c++ course of the world](https://github.com/0voice)
 
 [GitHub精选 | GitHub 中文社区](https://www.github-zh.com/awesome)
 
