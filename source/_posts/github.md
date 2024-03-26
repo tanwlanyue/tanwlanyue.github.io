@@ -16,3 +16,6 @@ categories: 资源
 
 <!-- more -->
 
+下载单个文件 按照格式 浏览器地址栏回车
+
+`https://raw.githubusercontent.com/username/repository/branch/path/filename.md`
