@@ -103,7 +103,7 @@ categories: 资源
 
 #### 编解码开源项目
 
-| introduce                                                    |
+| project                                                      |
 | :----------------------------------------------------------- |
 | [WebRTC](https://www.webrtc.org) 实现了基于网页的视频会议，标准是WHATWG 协议，目的是通过浏览器提供简单的javascript就可以达到实时通讯（Real-Time Communications (RTC)）能力。WebRTC提供了视频会议的核心技术，包括音视频的采集、编解码、网络传输、显示等功能，并且还支持跨平台：windows，linux，mac，android。 |
 | H.264是ITU（International Telecommunication Union，国际通信联盟）和MPEG（Motion Picture Experts Group，运动图像专家组）联合制定的视频编码标准。而 [x264](https://www.linuxfromscratch.org) 是一个开源的H.264/MPEG-4 AVC视频编码函数库，是最好的有损视频编码器之一。 |
@@ -116,7 +116,7 @@ categories: 资源
 
 #### 服务端开源项目
 
-| introduce                                                    |
+| project                                                      |
 | :----------------------------------------------------------- |
 | [jitsi](https://github.com/jitsi/jitsi) is an audio/video and chat communicator that supports protocols such as SIP, XMPP/Jabber, IRC and many other useful features. |
 | [JsSIP](https://jssip.net) 是一个简单易用的JavaScript库，它利用SIP和WebRTC的最新发展，在任何网站上提供全功能的SIP端点。通过JsSIP ，只要几行代码，任何网站都可以通过音频，视频等获得实时通信功能。 |
@@ -128,7 +128,7 @@ categories: 资源
 
 #### 质量传输开源项目
 
-| introduce                                                    |
+| project                                                      |
 | :----------------------------------------------------------- |
 | [callstats.io](https://www.callstats.io) 致力于监控和管理WebRTC应用中的音频和视频通话性能。提供Javascript客户端库，可以监测浏览器终端性能，从而帮助服务供应商准确定位那些媒体质量较低的终端用户，并进行性能问题的诊断。该信息主要是用于产品经理和工程师来提高客户体验质量，主动解决潜在的瓶颈障碍。 |
 | [Meetecho](https://github.com/meetecho/janus-gateway) Janus是Meetecho公司的一款WebRTC（网页即时通信）服务器。 |
@@ -138,13 +138,13 @@ categories: 资源
 
 ##### 音频
 
-| introduce                                                    |
+| project                                                      |
 | :----------------------------------------------------------- |
 | [soundtouch](https://gitlab.com/soundtouch/soundtouch)是一个开源的音频处理库，主要实现包含变速、变调、变速同时变调等三个 功能模块，能够对媒体流实时操作，也能对音频文件操作。采用32位浮点或者16位定点，支持单声道或者双声道，采样率范围为8k~48k。 |
 
 ##### 视频
 
-| introduce                                                    |
+| project                                                      |
 | :----------------------------------------------------------- |
 | [SeetaFace6](https://github.com/SeetaFace6Open/index) 是中科视拓最新开源的商业正式版本。包含人脸识别的基本部分，如人脸检测、关键点定位、人脸识别。同时增加了活体检测、质量评估、年龄性别估计。并且响应时事，开放了口罩检测以及戴口罩的人脸识别模型。 |
 | [GPUImage2](https://github.com/BradLarson/GPUImage2) 是个功能十分强大、又十分易用的图像处理库。提供各种各样的图像处理滤镜，并且支持照相机和摄像机的实时滤镜。 |
@@ -153,7 +153,7 @@ categories: 资源
 
 ### 其他音视频开源项目
 
-| introduce                                                    |
+| project                                                      |
 | :----------------------------------------------------------- |
 | [Speex](https://www.xiph.org) 是一套主要针对语音的开源免费，无专利保护的音频压缩格式。 |
 | [FLAC](https://www.xiph.org) 中文可解释为无损音频压缩编码。FLAC是一套著名的自由音频压缩编码，其特点是无损压缩。不同于其他有损压缩编码如MP3及AAC，它不会破坏任何原有的音频信息，所以可以还原音乐光盘音质。 |
@@ -493,122 +493,4 @@ categories: 资源
 
 ## 面试题
 
-[1. 为什么巨大的原始视频可以编码成很小的视频呢?这其中的技术是什么呢?](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_001)
-
-[2. 怎么做到直播秒开优化？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_002)
-
-[3. 直方图在图像处理里面最重要的作用是什么？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_003)
-
-[4. 数字图像滤波有哪些方法？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_004)
-
-[5. 图像可以提取的特征有哪些？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_005)
-
-[6. 衡量图像重建好坏的标准有哪些？怎样计算？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_006)
-
-[7. AAC和PCM的区别？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_007)
-
-[8. H264存储的两个形态？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_008)
-
-[9. FFMPEG：图片如何合成视频？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_009)
-
-[10. 常见的音视频格式有哪些？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_010)
-
-[11. 请指出“1080p”的意义？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_011)
-
-[12. 请解释颜色的本质及其数字记录原理，并说出几个你所知道的色域。](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_012)
-
-[13. 请解释“矢量图”和“位图”的区别？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_013)
-
-[14. 请从“光圈”“快门速度”“感光度”“白平衡”“景深”中任选2个进行叙述？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_014)
-
-[15. 视频分量YUV的意义及数字化格式？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_015)
-
-[16. 在MPEG标准中图像类型有哪些？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_016)
-
-[17. 列举一些音频编解码常用的实现方案？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_017)
-
-[18. 请叙述MPEG视频基本码流结构？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_018)
-
-[19. sps和pps的区别？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_019)
-
-[20. 请叙述AMR基本码流结构？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_020)
-
-[21. 预测编码的基本原理是什么？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_021)
-
-[22. 说一说ffmpeg的数据结构？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_022)
-
-[23. 说一说AVFormatContext 和 AVInputFormat之间的关系？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_023)
-
-[24. 说一说AVFormatContext, AVStream和AVCodecContext之间的关系？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_024)
-
-[25. 说一说视频拼接处理步骤？（细节处理，比如分辨率大小不一，时间处理等等）](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_025)
-
-[26. NV21如何转换成I420？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_026)
-
-[27. DTS与PTS共同点？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_027)
-
-[28. 影响视频清晰度的指标有哪些？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_028)
-
-[29. 编解码处理时遇到什么困难？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_029)
-
-[30. 如何秒开视频？什么是秒开视频？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_030)
-
-[31. 如何降低延迟？如何保证流畅性？如何解决卡顿？解决网络抖动？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_031)
-
-[32. 需要把网络上一段视频存储下来（比如作为mp4 ), 请实现并说出方法（第一个视频需要翻墙才能进）？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_032)
-
-[33. 需要把网络上一段语音存储下来（比如作为mp3 ), 请实现并说出方法？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_033)
-
-[34. 为什么要有YUV这种数据出来？（YUV相比RGB来说的优点）](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_034)
-
-[35. H264/H265有什么区别？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_035)
-
-[36. 视频或者音频传输，你会选择TCP协议还是UDP协议？为什么？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_036)
-
-[37. 平时说的软解和硬解，具体是什么？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_037)
-
-[38. 何为直播？何为点播？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_038)
-
-[39. 简述推流、拉流的工作流程？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_039)
-
-[40. 如何在直播中I帧间隔设置、与帧率分辨率选定？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_040)
-
-[41. 直播推流中推I帧与推非I帧区别是什么？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_041)
-
-[42. 常见的直播协议有哪些？之间有什么区别？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_042)
-
-[43. 点播中常见的数据传输协议主要有哪些？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_043)
-
-[44. RTMP、HLS协议各自的默认端口号是？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_044)
-
-[45. 简述RTMP协议，如何封装RTMP包？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_045)
-
-[46. m3u8构成是？直播中m3u8、ts如何实时更新？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_046)
-
-[47. 何为音视频同步，音视频同步是什么标准？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_047)
-
-[48. 播放器暂停、快进快退、seek、逐帧、变速怎么实现？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_048)
-
-[49. 说说你平时在播放过程中做的优化工作？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_049)
-
-[50. 你研究过哪些具体的流媒体服务器，是否做过二次开发？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md#subject_050)
-
-[51. 什么是GOP?](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/002-README.md#subject_051)
-
-[52. 音频测试的测试点,音频时延如何测试?](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/002-README.md#subject_052)
-
-[53. 美颜的实现原理，具体实现步骤?](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/002-README.md#subject_053)
-
-[54. 如何直播APP抓包过来的文件，如何过滤上行，下行，总码率？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/002-README.md#subject_054)
-
-[55. 如何测试一个美颜挂件？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/002-README.md#subject_055)
-
-[56. 为什么要用FLV？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/002-README.md#subject_056)
-
-[57. 如何测试一个美颜挂件？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/002-README.md#subject_057)
-
-[58. 平常的视频格式？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/002-README.md#subject_058)
-
-[59. 何为homebrew？你用它安装过什么？常用命令有哪些？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/002-README.md#subject_059)
-
-[60. RTMP、HLS协议各自的默认端口号是？](https://github.com/0voice/audio_video_streaming/blob/main/case_interview/002-README.md#subject_060)
+https://github.com/0voice/audio_video_streaming/blob/main/case_interview/001-README.md
