@@ -1,5 +1,5 @@
 ---
-title: cpp
+title: C++
 date: 2024-03-26 20:06:05
 categories:
 ---

@@ -1,5 +1,5 @@
 ---
-title: c
+title: C
 date: 2024-03-26 20:05:59
 categories:
 ---
