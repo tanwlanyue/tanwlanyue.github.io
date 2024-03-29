@@ -6,6 +6,6 @@ categories: 工具
 
 **Windows Terminal Preview**
 
-<img src="https://raw.githubusercontent.com/tanwlanyue/image/master/Windows%20Terminal%20Preview.png" alt="Windows Terminal Preview" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/tanwlanyue/image/master/202403292219774.png" style="zoom:50%;" />
 
 <!-- more -->

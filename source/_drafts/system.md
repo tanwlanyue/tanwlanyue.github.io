@@ -10,7 +10,7 @@ categories:
 
 进入专业的编程领域，学习系统知识是非常关键的一部分。
 
-<img src="https://img9.doubanio.com/view/subject/l/public/s4510534.jpg" alt="img" style="zoom: 10%;" />
+<img src="https://raw.githubusercontent.com/tanwlanyue/image/master/202403292336284.png" style="zoom:10%;" />
 
 首先推荐的是翻译版图书《深入理解计算机系统》，原书名为《Computer Systems A Programmer’s Perspective》。不过，这本书叫做《程序员所需要了解的计算机知识》更为合适。
 

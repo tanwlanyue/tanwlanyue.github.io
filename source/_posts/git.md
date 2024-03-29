@@ -6,7 +6,7 @@ categories: 工具
 
 [Pro Git 简体中文版](https://iissnan.com/progit/)
 
-# Git配置
+## SSH KEY
 
 ```sh
 # 生成 SSH Key
@@ -15,8 +15,13 @@ ssh-keygen -t rsa -C "tanwlanyue@gmail.com"
 cat ~/.ssh/id_rsa.pub
 # 测试
 ssh -T git@gitee.com
+```
+
+## Config
+
+```sh
 # 用户设置
-git config --global user.name "zhanglei"
+git config --global user.name "tanwlanyue"
 git config --global user.email "tanwlanyue@gmail.com"
 # ssl设置
 git config --global http.sslVerify "false"
@@ -26,7 +31,8 @@ git config --global core.quotepath false
 git config --global gui.encoding utf-8
 ```
 <!-- more -->
-# Git命令
+
+## Command
 
 ```sh
 # 删除分支
