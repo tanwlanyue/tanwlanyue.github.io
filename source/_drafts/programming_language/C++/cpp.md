@@ -17,3 +17,5 @@ categories:
 - C++的作者 Bjarne Stroustrup 写的 [C++ FAQ](http://www.stroustrup.com/bs_faq.html) （ [中文版](http://www.stroustrup.com/bsfaqcn.html)），也是非常值得一读的。
 
 <!-- more -->
+
+[《C++ 并发编程（从C++11到C++17）》](https://paul.pub/cpp-concurrency/)

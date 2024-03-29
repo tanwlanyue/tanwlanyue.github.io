@@ -1,14 +1,12 @@
 ---
-title: 系统知识
-date: 2024-03-27 10:49:37
+title: 工程实践
+date: 2024-03-26 20:21:29
 categories:
 ---
 
 <!-- more -->
 
-你好，我是陈皓，网名左耳朵耗子。
-
-进入专业的编程领域，学习系统知识是非常关键的一部分。
+Unix/Linux、TCP/IP、C10K挑战等这样专业的系统知识，学习系统知识是非常关键的一部分。
 
 <img src="https://raw.githubusercontent.com/tanwlanyue/image/master/202403292336284.png" style="zoom:10%;" />
 
@@ -56,7 +54,9 @@ categories:
 - 学会使用makefile来编译程序（参看我的《 **跟我一起写makefile**》 [一](https://blog.csdn.net/haoel/article/details/2886)、 [二](https://blog.csdn.net/haoel/article/details/2887)、 [三](https://blog.csdn.net/haoel/article/details/2888)、 [四](https://blog.csdn.net/haoel/article/details/2889)、 [五](https://blog.csdn.net/haoel/article/details/2890)、 [六](https://blog.csdn.net/haoel/article/details/2891)、 [七](https://blog.csdn.net/haoel/article/details/2892)、 [八](https://blog.csdn.net/haoel/article/details/2893)、 [九](https://blog.csdn.net/haoel/article/details/2894)、 [十](https://blog.csdn.net/haoel/article/details/2895)、 [十一](https://blog.csdn.net/haoel/article/details/2896)、 [十二](https://blog.csdn.net/haoel/article/details/2897)、 [十三](https://blog.csdn.net/haoel/article/details/2898)、 [十四](https://blog.csdn.net/haoel/article/details/2899)）。
 - Socket的进程间通信。用C语言写一个1对1的聊天小程序，或是一个简单的HTTP服务器。
 
-# C10K 问题
+
+
+**C10K 问题**
 
 然后，当你读完《Unix网络编程》后，千万要去读一下 “ [C10K Problem](http://www.kegel.com/c10k.html) （ [中文翻译版](https://www.oschina.net/translate/c10k)）”。提出这个问题的人叫丹·凯格尔（Dan Kegel），目前在Google任职。
 
@@ -68,7 +68,7 @@ C10K问题本质上是 **操作系统处理大并发请求的问题**。对于We
 
 另外，现在，整个世界都在解决C10M问题，推荐看看 [The Secret To 10 Million Concurrent Connections -The Kernel Is The Problem, Not The Solution](http://highscalability.com/blog/2013/5/13/the-secret-to-10-million-concurrent-connections-the-kernel-i.html) 一文。
 
-# 实践项目
+
 
 我们已经学习完了编程语言、理论学科和系统知识三部分内容，下面就来做几个实践项目，小试牛刀一下。实现语言可以用C、C++或Java。
 
@@ -96,8 +96,6 @@ C10K问题本质上是 **操作系统处理大并发请求的问题**。对于We
 - 需要支持多个消费者消费消息（只要有一个消费者成功处理消息就可以删除消息）。
 - 消息队列要做到不丢数据（要把消息持久化下来）。
 - 能做到性能很高。
-
-# 小结
 
 到今天，我们已经学习完了专业编程方面最为重要的三部分内容：编程语言、理论学科和系统知识，我们针对这些内容做个小结。如果想看完我推荐的那些书和知识，并能理解和掌握，我估计怎么也得需要4-5年的时间。嗯，是的，就是一个计算机科学系科班出身的程序员需要学习的一些东西。这其中，最重要的是下面这几点。
 
