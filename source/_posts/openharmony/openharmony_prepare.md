@@ -4,8 +4,6 @@ date: 2024-03-29 23:20:53
 categories:
 ---
 
-<!-- more -->
-
 拉取代码
 
 ```sh
@@ -28,12 +26,13 @@ build/prebuilts_download.sh --no-check-certificatie -skip-ssl
 
 ./build.sh --no-prebuilt-sdk --product-name=rk3568 --ccache -T foundation/multimedia/camera_framework/frameworks/native/camera:camera_framework camera_napi camera_service -j32
 
-自己仓同步代码
+# 同步代码
 git remote add openharmony https://gitee.com/openharmony/multimedia_camera_framework.git
 git fetch openharmony
 git rebase openharmony/master
 ```
 
+<!-- more -->
 
 vscode 插件 clangd 安装
 
