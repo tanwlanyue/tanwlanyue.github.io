@@ -1,7 +1,9 @@
 ---
 title: 安装WSL
 date: 2024-03-26 01:22:30
-categories:
+categories: 
+tags:
+  - ohos
 ---
 
 控制面板→程序→启用或关闭Windows功能→{ Hyper-V, 适用于Linux的Windows子系统 }
