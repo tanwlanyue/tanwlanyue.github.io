@@ -2,6 +2,8 @@
 title: Git 基础
 date: 2024-03-21 23:12:54
 categories: 工具
+tags:
+  - git
 ---
 
 [Pro Git 简体中文版](https://iissnan.com/progit/)
