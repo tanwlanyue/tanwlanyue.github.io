@@ -4,13 +4,11 @@ date: 2024-03-21 03:19:47
 type: about
 ---
 
-I'm tanwlanyue.
-
-- 👨‍🎓 Graduate student at USTC
-- 🍒 Interested in computer graphics, audio and video, and streaming media
-- 🍉 Working on OpenHarmony currently
-- 🧐 Focus on multimedia camera framework
-- 🍋 I am actively learning [FFmpeg](https://ffmpeg.org/)
+- Graduate student at USTC
+- Interested in computer graphics, audio and video, and streaming media
+- Working on OpenHarmony currently
+- Focus on multimedia camera framework
+- I am actively learning [FFmpeg](https://ffmpeg.org/)
 
 ---
 

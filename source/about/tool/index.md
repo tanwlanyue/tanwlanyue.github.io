@@ -1,9 +1,8 @@
 ---
-title: 工具集合
-date: 2024-03-22 14:54:29
-categories: 工具
+title: 工具
+type: tool
+date: 2024-04-07 04:52:41
 ---
-
 [Base64 在线编码解码](https://base64.us/) | [蓝奏云](https://www.lanzou.com/)
 
 [数据结构可视化](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) | [算法可视化](https://visualgo.net/zh)
@@ -13,8 +12,6 @@ categories: 工具
 [Adobe 2024 破解](https://www.superso.top/Adobe/) | [吾爱破解](https://www.52pojie.cn/)
 
 [免费商用字体](https://www.100font.com/) | [阿里巴巴矢量图标库](https://www.iconfont.cn/) | [艺术签名在线生成](http://www.yishuzi.com/)
-
-<!-- more -->
 
 [ChatGPT](https://chat.openai.com/) | [AIbase - 智能匹配最适合您的AI产品和网站](https://top.aibase.com/) | [AI工具集 | 700+ AI工具集合官网](https://ai-bot.cn/)
 
@@ -27,8 +24,6 @@ categories: 工具
 [CodeTop 面试题目总结](https://codetop.cc/home) | [InterviewGuide大厂面试真题](https://top.interviewguide.cn/)
 
 [PDF24 Tools: 免费且易于使用的在线PDF工具](https://tools.pdf24.org/zh/)
-
-# reference
 
 [N-API](https://nodejs.org/api/n-api.html) | [Node8.0之Napi探秘 - 简书](https://www.jianshu.com/p/31745a02cad1)
 

@@ -97,7 +97,12 @@ open_graph:
 # External url should start with http:// or https://
 menu:
   home: / || fa fa-home
-  about: /about/ || fa fa-user
+  about: 
+    default: /about/ || fa fa-user
+    blog: /blog/ || fa fa-edit
+    tool: /tool/ || fa fa-wrench
+    resource: /resource/ || fa fa-star
+    software: /software/ || fa fa-download
   tags: /tags/ || fa fa-tags
   categories: /categories/ || fa fa-th
   archives: /archives/ || fa fa-archive

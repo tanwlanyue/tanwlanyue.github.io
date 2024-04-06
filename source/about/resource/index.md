@@ -1,0 +1,14 @@
+---
+title: 资源
+type: resource
+date: 2024-04-07 04:53:28
+---
+[CS自学指南](https://csdiy.wiki/) | [2024年最值得收藏的C++入门学习路线](https://javabetter.cn/xuexiluxian/ccc.html)
+
+[leveldb-handbook](https://leveldb-handbook.readthedocs.io/zh/latest/) | [Z-Library – 世界上最大的电子图书馆](https://zh.z-library.se/)
+
+极客时间资源： [百度网盘](https://pan.baidu.com/s/11_gkuHcL1EcdD9U0wi-7vw?pwd=7mg0) | [阿里云盘 ie92](https://www.aliyundrive.com/s/zVMrsNmFRJ9) | [天翼云盘 c8hx](https://cloud.189.cn/web/share?code=yIbuMnUFjmYz) | [夸克网盘](https://pan.quark.cn/s/2c9aa53b77f8#/list/share)
+
+AcWing 算法基础课 + 算法提高课 [夸克网盘](https://pan.quark.cn/s/93689ef84831)
+
+侯捷C++ [夸克网盘](https://pan.quark.cn/s/39b0a6785502#/list/share/ad5757b0914e43c69ad512a90595e262) [百度网盘 mb5q](https://pan.baidu.com/s/1vSpBjJPTHm9XjNOmq6VHDQ)
