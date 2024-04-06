@@ -36,23 +36,10 @@ git rebase openharmony/master
 
 <!-- more -->
 加快本地编译的一些参数，适当选择添加以下的编译参数可以加快编译的过程。
-- **添加–ccache参数**:
-    - 原理：ccache会缓存c/c++编译的编译输出，下一次在编译输入不变的情况下，直接复用缓存的产物。
-    - 安装：
-        - 快速安装：执行sudo apt-get install ccache命令。
-        - [官网下载](https://ccache.dev/download.html)，下载二进制文件，把ccache所在路径配置到环境变量。
-    - 使用：执行./build.sh --product-name 产品名 --ccache命令。
-- **添加–fast-rebuild参数**
-    - 原理：编译流程主要分为：preloader->loader->gn->ninja这四个过程，在本地没有修改gn和产品配置相关文件的前提下，添加–fast-rebuild会让你直接从ninja编译开始。
-    - 使用：执行./build.sh --product-name 产品名 --fast-rebuild命令。
-- **添加enable_notice_collection=false参数**
-    - 原理：省略掉收集开源软件模块的license的过程。
-    - 使用：执行./build.sh --product-name 产品名 --gn-args --enable_notice_collection=false --ccache命令。
-- **添加–build-target参数**
-    - 该参数用于指定编译模块，如何找模块的名字：
-        - 相关仓下BUILD.gn中关注group、ohos_shared_library、ohos_executable等关键字。
-        - ./build.sh --product-name 产品名 --build-target 模块名 --build-only-gn生成build.ninja，然后去该文件中查找相关模块名。
-    - 使用：执行./build.sh --product-name 产品名 --build-target ark_js_host_linux_tools_packages命令。
+
+- --ccache : ccache会缓存c/c++编译的编译输出，下一次在编译输入不变的情况下，直接复用缓存的产物
+- --fast-rebuild : 编译流程主要分为preloader->loader->gn->ninja这四个过程，在本地没有修改gn和产品配置相关文件的前提下，添加--fast-rebuild 会直接从 ninja 编译开始
+- --build-target参数 : 该参数用于指定编译模块，可以通过相关仓下BUILD.gn中关注group、ohos_shared_library、ohos_executable等关键字找模块的名字
 
 # vscode 插件 clangd 安装
 
