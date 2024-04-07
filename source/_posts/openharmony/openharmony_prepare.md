@@ -26,7 +26,9 @@ repo forall -c 'git lfs pull'
 
 build/prebuilts_download.sh --no-check-certificatie -skip-ssl  
 
-./build.sh --no-prebuilt-sdk --product-name=rk3568 --ccache -T foundation/multimedia/camera_framework/frameworks/native/camera:camera_framework camera_napi camera_service -j32 --fast-rebuild
+./build.sh --no-prebuilt-sdk --product-name=rk3568 --ccache \
+-T foundation/multimedia/camera_framework/frameworks/native/camera:camera_framework \
+camera_napi camera_service -j32 --fast-rebuild
 
 # 同步代码
 git remote add openharmony https://gitee.com/openharmony/multimedia_camera_framework.git

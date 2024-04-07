@@ -19,14 +19,14 @@ minify: false
 # Define custom file paths.
 # Create your custom files in site directory `source/_data` and uncomment needed files below.
 custom_file_path:
-  #head: source/_data/head.njk
+  head: source/_data/head.njk
   #header: source/_data/header.njk
   sidebar: source/_data/sidebar.njk
   #postMeta: source/_data/post-meta.njk
   postBodyStart: source/_data/post-body-start.njk
   postBodyEnd: source/_data/post-body-end.njk
   footer: source/_data/footer.njk
-  #bodyEnd: source/_data/body-end.njk
+  bodyEnd: source/_data/body-end.njk
   #variable: source/_data/variables.styl
   #mixin: source/_data/mixins.styl
   style: source/_data/styles.styl
@@ -368,11 +368,11 @@ codeblock:
   # Code Highlight theme
   # All available themes: https://theme-next.js.org/highlight/
   theme:
-    light: qtcreator-light
-    dark: stackoverflow-dark
+    light: vs2015 #qtcreator-light
+    dark: vs2015 #stackoverflow-dark
   prism:
-    light: prism
-    dark: prism-dark
+    light: prism-vsc-dark-plus.min
+    dark: prism-vsc-dark-plus.min
   # Add copy button on codeblock
   copy_button:
     enable: true
