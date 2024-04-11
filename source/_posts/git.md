@@ -47,5 +47,9 @@ git rebase -i parentCommitId # 选择需要修改的commit  前面的pick改为r
 git rebase -i parentCommitId # 选择需要修改的commit  前面的pick改为s
 # 查看最近三次提交记录
 git log -3
+# 分离头指针保存
+git branch newBranchName commitId 
+git checkout -b newBranchName branch/commitId
+# 比较差异
+git diff HEAD HEAD~1
 ```
-
