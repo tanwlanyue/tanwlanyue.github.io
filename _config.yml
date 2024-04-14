@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Note
-subtitle: 'Book'
+title: Notes
+subtitle: 'Make It Possible'
 description: '危难当前 唯有责任'
 keywords:
 author: 猫猫侦探
 language: zh-CN
-timezone: ''
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
