@@ -8,7 +8,7 @@ tags:
 
 控制面板→程序→启用或关闭Windows功能→{ Hyper-V, 适用于Linux的Windows子系统 }
 
-<img src="https://raw.githubusercontent.com/tanwlanyue/image/master/202403292220235.png" style="zoom:67%;" />
+<img src="https://raw.githubusercontent.com/tanwlanyue/images/master/202404150137787.png" style="zoom:67%;" />
 
 设置→开发者选项→开发人员模式
 
@@ -57,7 +57,7 @@ lxrunoffline di -n Ubuntu
 
 给ext4.vhdx权限
 
-<img src="https://raw.githubusercontent.com/tanwlanyue/image/master/202403292221907.png" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/tanwlanyue/images/master/202404150138366.png" style="zoom:50%;" />
 
 添加一个网络位置 `\\wsl$\Ubuntu`
 

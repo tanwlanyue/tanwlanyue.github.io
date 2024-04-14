@@ -47,7 +47,7 @@ git rebase openharmony/master
 
 项目执行prebuild会下载clang,不需要自己apt install clang
 
-<img src="https://raw.githubusercontent.com/tanwlanyue/image/master/202403292322696.png" alt="image">
+![](https://raw.githubusercontent.com/tanwlanyue/images/master/202404150129013.png)
 
 编译命令添加`--gn-flags='--export-compile-commands'`
 

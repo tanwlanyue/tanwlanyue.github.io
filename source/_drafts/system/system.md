@@ -8,7 +8,7 @@ categories:
 
 Unix/Linux、TCP/IP、C10K挑战等这样专业的系统知识，学习系统知识是非常关键的一部分。
 
-<img src="https://raw.githubusercontent.com/tanwlanyue/image/master/202403292336284.png" style="zoom:10%;" />
+<img src="https://raw.githubusercontent.com/tanwlanyue/images/master/202404150132227.png" style="zoom:10%;" />
 
 首先推荐的是翻译版图书《深入理解计算机系统》，原书名为《Computer Systems A Programmer’s Perspective》。不过，这本书叫做《程序员所需要了解的计算机知识》更为合适。
 

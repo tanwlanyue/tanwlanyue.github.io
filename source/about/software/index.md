@@ -14,9 +14,9 @@ type: software
 
 **Windows Terminal Preview**
 
-<img src="https://raw.githubusercontent.com/tanwlanyue/image/master/202403292219774.png" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/tanwlanyue/images/master/202404150134508.png" style="zoom:50%;" />
 
 **Microsoft PowerToys**
 
-<img src="https://raw.githubusercontent.com/tanwlanyue/image/master/202404071038055.png" style="zoom: 63%;" />
+<img src="https://raw.githubusercontent.com/tanwlanyue/images/master/202404150134094.png" style="zoom:63%;" />
 
