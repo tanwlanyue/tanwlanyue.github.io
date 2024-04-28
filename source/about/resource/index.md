@@ -14,3 +14,12 @@ date: 2024-04-07 04:53:28
 [AcWing 算法基础课 + 算法提高课 夸克网盘](https://pan.quark.cn/s/93689ef84831)
 
 [侯捷C++ 夸克网盘](https://pan.quark.cn/s/39b0a6785502#/list/share/ad5757b0914e43c69ad512a90595e262) [百度网盘 mb5q](https://pan.baidu.com/s/1vSpBjJPTHm9XjNOmq6VHDQ)
+
+---
+<img src="https://raw.githubusercontent.com/tanwlanyue/images/master/202404150131763.png" style="zoom:25%;" />
+
+[GitHub精选](https://www.github-zh.com/awesome)
+
+[GitHub Top 10 + C++优质开源项目(2021版) - 知乎](https://zhuanlan.zhihu.com/p/421881435)
+
+[GitHub中文排行榜](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts)
