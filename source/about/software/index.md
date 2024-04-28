@@ -18,7 +18,11 @@ type: software
 
 [PicGo客户端](https://github.com/Molunerfinn/PicGo) 是一个图床客户端
 
+[Obsidian](https://github.com/obsidianmd/obsidian-releases/releases) 是一个markdown笔记软件
 
+[Telegram](https://desktop.telegram.org/) 是一个加密聊天软件
+
+[Typora](https://tanwlanyue.lanzoul.com/iF3AX1wwjbfg) 是一个markdown实时预览编辑器
 # microsoft store app
 
 **Windows Terminal Preview**
