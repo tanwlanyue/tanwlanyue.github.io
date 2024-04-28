@@ -17,10 +17,9 @@ Go 语言最突出之处是并发编程，Unix老牌黑客罗勃·派克（Rob P
 
 然后，Go在 GitHub的wiki上有好多不错的学习资源，你可以从中学习到多。比如：
 
-- [Go精华文章列表](https://github.com/golang/go/wiki/Articles)。
-- [Go相关博客列表](https://github.com/golang/go/wiki/Blogs)。
-- [Go Talks](https://github.com/golang/go/wiki/GoTalks)。
-
-此外，还有个内容丰富的Go资源列表 [Awesome Go](https://github.com/avelino/awesome-go)，推荐看看。
+[Go精华文章列表](https://github.com/golang/go/wiki/Articles)
+[Go相关博客列表](https://github.com/golang/go/wiki/Blogs)
+[Go Talks](https://github.com/golang/go/wiki/GoTalks)
+[Awesome Go](https://github.com/avelino/awesome-go)
 
 <!-- more -->

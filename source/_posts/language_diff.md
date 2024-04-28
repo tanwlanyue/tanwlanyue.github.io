@@ -1,12 +1,11 @@
 ---
-title: language type
+title: 动态语言、静态语言、强类型语言、弱类型语言的区别
 date: 2024-03-26 20:24:59
 categories:
 ---
 
 <!-- more -->
 
-动态语言、静态语言、强类型语言、弱类型语言的区别
 
 - C/C++/Java 是静态语言 + 强类型；
 - JavaScript 是动态语言 + 弱类型；
