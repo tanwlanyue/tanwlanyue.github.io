@@ -51,10 +51,10 @@ darkmode: false
 # ---------------------------------------------------------------
 
 favicon:
-  small: /uploads/pkmgo.jpeg
-  medium: /uploads/pkmgo.jpeg
-  apple_touch_icon: /uploads/pkmgo.jpeg
-  safari_pinned_tab: /uploads/pkmgo.jpeg
+  small: /assets/pkmgo.jpeg
+  medium: /assets/pkmgo.jpeg
+  apple_touch_icon: /assets/pkmgo.jpeg
+  safari_pinned_tab: /assets/pkmgo.jpeg
   #android_manifest: /manifest.json
 
 # Custom Logo (Warning: Do not support scheme Mist)
@@ -147,7 +147,7 @@ sidebar:
 # Sidebar Avatar
 avatar:
   # Replace the default image and set the url here.
-  url: /uploads/avatar.jpg
+  url: /assets/avatar.jpg
   # If true, the avatar will be displayed in circle.
   rounded: true
   # If true, the avatar will be rotated with the cursor.
