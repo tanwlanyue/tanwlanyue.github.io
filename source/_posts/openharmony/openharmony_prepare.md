@@ -51,7 +51,7 @@ git rebase openharmony/master
 
 编译命令添加`--gn-flags='--export-compile-commands'`
 
-```
+```sh
 ./build.sh --no-prebuilt-sdk --product-name=rk3568 --gn-flags='--export-compile-commands'
 ```
 

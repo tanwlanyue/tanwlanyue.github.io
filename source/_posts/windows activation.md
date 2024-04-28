@@ -8,7 +8,7 @@ tags:
 
 1. 以管理员身份运行CMD
 
-```
+```powershell
 slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
 slmgr /skms kms.03k.org
 slmgr /ato
@@ -20,7 +20,7 @@ slmgr /ato
 
 [O365ProPlus下载页](https://gravesoft.dev/download_windows_office/office_c2r_links/#chinese-simplified-zh-cn)
 
-```
+```powershell
 # PowerShell
 irm https://massgrave.dev/get | iex
 ```
