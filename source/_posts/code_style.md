@@ -4,14 +4,6 @@ date: 2024-03-27 10:30:16
 categories:
 ---
 
-按照编程规范和最佳实践写代码的原因主要有：
-
-- 提高代码可读性，易于维护
-- 提升开发效率，团队合作效率
-- 减少Bug，提高代码质量。
-
-<!-- more -->
-
 ## 编程语言相关
 
 **C语言**
@@ -27,6 +19,7 @@ categories:
 - [C++ Core Guidelines](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)，这个文档是各种C++的大拿包括原作者在内在持续讨论更新的和C++语言相关的各种最佳实践。
 - [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)。
 
+<!-- more -->
 **Go语言**
 
 - [Effective Go](https://golang.org/doc/effective_go.html) ，Go的语法不复杂，所以，Go语言的最佳实践只需要看这篇官方文档就够了。
@@ -88,42 +81,14 @@ categories:
 
 - [HTML + CSS Code Guide](http://codeguide.co)，如何写出比较灵活、耐用、可持续改进的HTML和CSS的规范。
 
-- [CoffeeScript Style Guide](https://github.com/polarmobile/coffeescript-style-guide)，CoffeeScript的最佳实践和编程规范。
-
 - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)，Google的HTML/CSS的编程规范。
 
 - [Guidelines for Responsive Web Design](https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/) ，响应式Web设计的规范和最佳实践。
-
-- [U.S. Web Design Standards](https://standards.usa.gov)，这是美国政府网端要求的一些UI交互可视化的一些规范。
 
 
 最后是一个前端开发的各种注意事项列表，非常有用。
 
 - [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist) ，一个前端开发的Checklist，其中包括HTML、CSS和JavaScript，还和图片、字体、SEO、性能相关，还包括关一些和安全相关的事项，这个列表真的是太好了。
-
-## 移动端相关
-
-**Kotlin**
-
-- [Coding Conventions](https://kotlinlang.org/docs/reference/coding-conventions.html)。
-
-**Objective-C语言**
-
-- [Objective-C Style guide](https://github.com/github/objective-c-style-guide)，Style guide & coding conventions for Objective-C projects。
-
-- [Google Objective-C Style Guide](https://google.github.io/styleguide/objcguide.xml)。
-
-- [NYTimes Objective-C Style Guide](https://github.com/NYTimes/objective-c-style-guide) ，The Objective-C Style Guide used by The New York Times。
-
-
-**Swift语言**
-
-- [API Design Guidelines](https://swift.org/documentation/api-design-guidelines/)。
-- [Swift](https://github.com/github/swift-style-guide) \- 一个Swift的相关编程规范的教程。
-- [Swift style guide](https://github.com/raywenderlich/swift-style-guide)。
-- [Swift Style Guide](https://github.com/linkedin/swift-style-guide) \- LinkedIn的官方 Swift编程规范。
-- [Metova’s Swift style guide](https://github.com/metova/swift-style-guide)。
-- [Xmartlabs Swift Style Guide](https://github.com/xmartlabs/Swift-Style-Guide)，Xmartlabs的 Swift编程规范。
 
 ## API相关
 
