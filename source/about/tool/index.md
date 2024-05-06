@@ -32,3 +32,9 @@ date: 2024-04-07 04:52:41
 [C/C++文档](https://en.cppreference.com/w/) | [glibc](https://www.gnu.org/software/libc/manual/) | [GCC, the GNU Compiler Collection - GNU Project](https://gcc.gnu.org/) | [Linux syscalls2](https://man7.org/linux/man-pages/man2/syscalls.2.html)
 
 [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html) | [详解 C/C++ 各大编程规范 - 掘金](https://juejin.cn/post/7075978711681957918) | [菜鸟工具](https://www.jyshare.com/) 
+
+[画图 tldraw](https://www.tldraw.com/) | [excalidraw](https://excalidraw.com/)
+
+[Mermaid图表工具](https://mermaid.nodejs.cn/)
+
+[开源软件 - OSCHINA](https://www.oschina.net/project)
