@@ -99,10 +99,10 @@ menu:
   home: / || fa fa-home
   about: 
     default: /about/ || fa fa-user
-    book: /book/ || fa fa-book
+    #book: /book/ || fa fa-book
     blog: /blog/ || fa fa-edit
     tool: /tool/ || fa fa-wrench
-    resource: /resource/ || fa fa-star
+    #resource: /resource/ || fa fa-star
     software: /software/ || fa fa-download
   tags: /tags/ || fa fa-tags
   categories: /categories/ || fa fa-th

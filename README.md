@@ -2,5 +2,5 @@
 
 ```shell
 npm install && npm install hexo-cli -g
-hexo clean && hexo g -d
+hexo clean && hexo s -d
 ```
