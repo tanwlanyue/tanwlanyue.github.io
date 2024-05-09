@@ -95,15 +95,16 @@ open_graph:
 # Key is the name of menu item. If the translation for this item is available, the translated text will be loaded, otherwise the Key name will be used. Key is case-sensitive.
 # Value before `||` delimiter is the target link, value after `||` delimiter is the name of Font Awesome icon.
 # External url should start with http:// or https://
+# example blog content path: source\about\blog\index.md
 menu:
   home: / || fa fa-home
   about: 
     default: /about/ || fa fa-user
     #book: /book/ || fa fa-book
-    blog: /blog/ || fa fa-edit
+    #blog: /blog/ || fa fa-edit
     #tool: /tool/ || fa fa-wrench
     #resource: /resource/ || fa fa-star
-    software: /software/ || fa fa-download
+    #software: /software/ || fa fa-download
   tags: /tags/ || fa fa-tags
   categories: /categories/ || fa fa-th
   archives: /archives/ || fa fa-archive
